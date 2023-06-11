@@ -1,0 +1,11 @@
+{
+    "name": "Simple Todo App",
+    "version": "1.0.0",
+    "description": "This is an extension to add, check and add tasks.",
+    "manifest_version": 3,
+    "author": "Tanya Sonker",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Simple Todo App"
+    }
+}
