@@ -1,5 +1,5 @@
 # todo-chrome-ext
-building a simple chrome extension (todo app)
+building a chrome extension for a simple todo app
 
 ![view of todo app as chrome extension](screenshots/todo-chrome-ext.png)
 
